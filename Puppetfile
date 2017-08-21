@@ -1,1 +1,1 @@
-mod "arioch/redis", "1.0.0"
+mod "arioch/redis", :latest
